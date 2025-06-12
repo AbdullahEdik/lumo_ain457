@@ -6,6 +6,14 @@ This repository contains two Python controllers for the Lumo robot (a NAO robot 
 * **lumo\_minimal.py**: A simplified version that only speaks lines and changes LED colors without any physical motion.
 
 ---
+## Demo Videos
+
+Watch Lumo in action on YouTube:
+
+* **Minimal Controller Demo**: [https://youtu.be/okjG8tlLNMI](https://youtu.be/okjG8tlLNMI)
+* **Expressive Controller Demo**: [https://youtu.be/rI5xfDDLBXU](https://youtu.be/rI5xfDDLBXU)
+
+---
 
 ## Features
 
