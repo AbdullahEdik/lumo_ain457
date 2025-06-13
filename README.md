@@ -148,7 +148,4 @@ pyttsx3                # Text-to-speech
 
 ---
 
-
-**Author:** Abdullah
-
-**Date:** June 8, 2025
+**Date:** June 13, 2025
